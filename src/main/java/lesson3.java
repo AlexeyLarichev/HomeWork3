@@ -85,7 +85,7 @@ public class lesson3 {
         System.out.println(max);
         System.out.println(min);
     }
-    
+
 }
 
 
